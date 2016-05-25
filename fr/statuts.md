@@ -2,7 +2,7 @@
 
 ## Article premier
 
-Entre les adhérents aux présents statuts est fondée une association collégiale à but non lucratif régie par la loi du 1er juillet 1901.
+Entre les adhérent(e)s aux présents statuts est fondée une association collégiale à but non lucratif régie par la loi du 1er juillet 1901.
 
 Son nom est « Liberapay ».
 
@@ -26,9 +26,9 @@ Un règlement intérieur complète les présents statuts.
 
 ## Article 6 : gouvernance
 
-Les décisions concernant l'association sont prises collectivement par les adhérents selon les modalités définies par le règlement intérieur.
+Les décisions concernant l'association sont prises collectivement par les adhérent(e)s selon les modalités définies par le règlement intérieur.
 
-Les adhérents sont coresponsables de l'association et portent tous le titre de codirecteur.
+Les adhérent(e)s sont coresponsables de l'association et portent tous le titre de codirecteur-codirectrice.
 
 ## Article 7 : admission
 
@@ -36,7 +36,7 @@ Toute personne physique ou morale, française ou étrangère, qui souhaite parti
 
 ## Article 8 : radiation
 
-La qualité d'adhérent se perd :
+La qualité d'adhérent(e) se perd :
 
 - par décès pour les personnes physiques ou dissolution pour les personnes morales
 - par démission
